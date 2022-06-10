@@ -24,8 +24,6 @@ public class practise1pt10 {
 	        redButton.setIsHubPortDevice(true);
 
 	        //Open 
-	        // button state will be outputed every 10 milliseconds
-
 	        redButton.open(10);
 
 	        //Use your Phidgets 
